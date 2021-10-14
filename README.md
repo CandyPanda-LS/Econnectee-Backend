@@ -14,3 +14,9 @@
 **Database**
 - Mongoose Database is used
 - connection sting inside the config.js
+
+**Team behind the project
+- IT19132310 Lasal Sandeepa Hettiarachchi
+- IT19139036 Senura Vihan Jayadeva
+- IT19120980 Dilmi Nimasha Palliaguruge
+- IT19146898 Ayodya Banuka Fernando
