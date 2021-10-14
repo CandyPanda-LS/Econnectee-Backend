@@ -9,5 +9,8 @@
 **Working with the project**
 
 - Move into your projects directory: cd ~/YOUR_PROJECTS_DIRECTORY
-- Run development task : npm run server
--- Start a server on localhost:5000
+- Run development task : npm run server : Start a server on localhost:5000
+
+**Database**
+- Mongoose Database is used
+- connection sting inside the config.js
